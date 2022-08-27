@@ -9,7 +9,7 @@ body {
     display: flex;
     justify-content: space-between;
     align-items: center;
-    border-bottom: 1px solid rgb(70, 69, 69);
+    border-bottom: 1px solid #EDEDED;
     padding: 15px 5px;
 }
 
