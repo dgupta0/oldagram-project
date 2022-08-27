@@ -1,0 +1,102 @@
+body {
+    text-align: center;
+    font-family: "Roboto", sans-serif;
+    margin: 0px;
+}
+
+.styling {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border-bottom: 1px solid rgb(70, 69, 69);
+    padding: 15px 5px;
+}
+
+.width {
+    width: 400px;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 10px;
+    border: 1px solid black;
+
+}
+
+.header-img1 {
+    width: 150px;
+    height: 75px;
+
+}
+
+.profile-main {
+    width: 75px;
+    height: 75px;
+    border-radius: 50%;
+}
+
+section {
+    margin-top: 15px;
+    border-bottom: 20px solid rgb(70, 69, 69);
+
+}
+
+.profile-size {
+    width: 65px;
+    height: 65px;
+    border-radius: 50%;
+}
+
+.desc {
+    display: flex;
+    margin-left: 10px;
+}
+
+.name-place {
+    text-align: left;
+    margin-bottom: 15px;
+    margin-left: 10px;
+}
+
+.person-name {
+    font-weight: 900;
+    margin-bottom: 0;
+}
+
+.name-place p {
+    margin-top: 0px;
+}
+
+.post-img {
+    width: 400px;
+}
+
+.interact {
+    display: flex;
+    height: 30px;
+    width: 120px;
+    justify-content: space-between;
+    margin-top: 15px;
+    margin-left: 10px;
+}
+
+.engagement {
+    text-align: left;
+    margin-left: 10px;
+}
+
+.post-likes {
+    font-weight: 900;
+    margin-bottom: 0px;
+    padding: 5px 0;
+}
+
+.comment-name {
+    font-weight: 900;
+}
+
+.comments {
+    margin-top: 0px;
+}
+
+.sec2 {
+    border-radius: 8px;
+}
