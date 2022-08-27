@@ -2,6 +2,7 @@ body {
     text-align: center;
     font-family: "Roboto", sans-serif;
     margin: 0px;
+    background-color: #EDEDED;
 }
 
 .styling {
@@ -35,7 +36,7 @@ body {
 
 section {
     margin-top: 15px;
-    border-bottom: 20px solid rgb(70, 69, 69);
+    border-bottom: 20px solid #EDEDED;
 
 }
 
